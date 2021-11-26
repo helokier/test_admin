@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'webbacken',
+	'hostname' => 'mysql5045.site4now.net',
+	'username' => 'a7cc8a_helokit',
+	'password' => 'Truongtai1',
+	'database' => 'db_a7cc8a_helokit',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
