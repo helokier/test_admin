@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'mysql5045.site4now.net',
-	'username' => 'a7cc8a_helokit',
+	'hostname' => 'https://databases-auth.000webhost.com/db_structure.php?server=1&db=id17699806_admin',
+	'username' => 'id17699806_helokier',
 	'password' => 'Truongtai1',
-	'database' => 'db_a7cc8a_helokit',
+	'database' => 'id17699806_admin',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
