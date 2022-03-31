@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'https://databases-auth.000webhost.com/db_structure.php?server=1&db=id17699806_admin',
-	'username' => 'id17699806_helokier',
-	'password' => 'Truongtai1',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
 	'database' => 'id17699806_admin',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
